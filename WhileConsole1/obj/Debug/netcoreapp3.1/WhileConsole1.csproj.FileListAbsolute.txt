@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\bin\Debug\netcoreapp3.1\WhileConsole1.exe
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\bin\Debug\netcoreapp3.1\WhileConsole1.deps.json
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\bin\Debug\netcoreapp3.1\WhileConsole1.runtimeconfig.json
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\bin\Debug\netcoreapp3.1\WhileConsole1.runtimeconfig.dev.json
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\bin\Debug\netcoreapp3.1\WhileConsole1.dll
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\bin\Debug\netcoreapp3.1\WhileConsole1.pdb
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\netcoreapp3.1\WhileConsole1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\netcoreapp3.1\WhileConsole1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\netcoreapp3.1\WhileConsole1.AssemblyInfo.cs
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\netcoreapp3.1\WhileConsole1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\netcoreapp3.1\WhileConsole1.dll
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\netcoreapp3.1\WhileConsole1.pdb
+C:\Users\user\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\netcoreapp3.1\WhileConsole1.genruntimeconfig.cache
